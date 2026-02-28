@@ -18,9 +18,6 @@
  <project path="hardware/xiaomi" name="MufasaXz/hardware_xiaomi" remote="hub" revision="16" />
 
 
- <!-- keys -->
-<project path="vendor/afterlife-priv/keys" name="MufasaXz/vendor_afterlife_keys" remote="hub" revision="main" />
-
  <!-- Device Settings -->
 <remove-project name="LineageOS/android_packages_resources_devicesettings" />
 <project path="packages/resources/devicesettings" name="PocoF3Releases/packages_resources_devicesettings" remote="hub" revision="aosp-16" />
